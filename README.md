@@ -1,3 +1,3 @@
 # personal-website
 My portfolio
-Please vist my site sidkunta.x10host.com
+Please vist my site http://siddharth.x10host.com/
